@@ -14,7 +14,7 @@ pipeTop.sprite_index = pipe_top;
 
 // score
 
-var pipeScore = instance_create_layer(1100, 0, "Instances", Points);
+var pipeScore = instance_create_layer(1180, 0, "Instances", Points);
 
 // loop
 
