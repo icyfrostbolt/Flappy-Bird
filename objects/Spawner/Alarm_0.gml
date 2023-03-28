@@ -12,6 +12,10 @@ var pipeBottom = instance_create_layer(1100, centerPoint + spread, "Instances", 
 var pipeTop = instance_create_layer(1100, centerPoint - spread, "Instances", Pipe);
 pipeTop.sprite_index = pipe_top;
 
+// score
+
+var pipeScore = instance_create_layer(1100, 0, "Instances", Points);
+
 // loop
 
 alarm_set(0, 180);

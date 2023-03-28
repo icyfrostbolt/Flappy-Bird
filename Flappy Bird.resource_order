@@ -23,8 +23,10 @@
     {"name":"bird_up","order":2,"path":"sprites/bird_up/bird_up.yy",},
     {"name":"pipe_clear","order":5,"path":"sprites/pipe_clear/pipe_clear.yy",},
     {"name":"Pipe_Clear","order":4,"path":"objects/Pipe_Clear/Pipe_Clear.yy",},
+    {"name":"Points","order":6,"path":"objects/Points/Points.yy",},
     {"name":"bird_down","order":4,"path":"sprites/bird_down/bird_down.yy",},
     {"name":"pipe_top","order":3,"path":"sprites/pipe_top/pipe_top.yy",},
+    {"name":"point_score","order":7,"path":"sprites/point_score/point_score.yy",},
     {"name":"Wall","order":5,"path":"objects/Wall/Wall.yy",},
   ],
 }
