@@ -7,3 +7,4 @@ direction = 180;
 // initialize score
 
 counted = false;
+

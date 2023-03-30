@@ -3,3 +3,4 @@ if (counted == false){
 	counted = true;
 	show_debug_message(global.point);
 }
+

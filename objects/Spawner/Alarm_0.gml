@@ -19,3 +19,4 @@ var pipeScore = instance_create_layer(1180, 0, "Instances", Points);
 // loop
 
 alarm_set(0, 180);
+
