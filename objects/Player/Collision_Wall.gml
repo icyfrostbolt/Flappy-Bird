@@ -1,5 +1,4 @@
 // when touching wall
 
-room_restart();
-
+global.pause = true;
 

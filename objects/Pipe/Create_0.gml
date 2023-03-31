@@ -1,4 +1,4 @@
 // movement of pipe
 
-speed = 1;
+speed = 4;
 direction = 180;

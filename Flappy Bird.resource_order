@@ -17,8 +17,10 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Spawner","order":2,"path":"objects/Spawner/Spawner.yy",},
+    {"name":"Restart","order":9,"path":"sprites/Restart/Restart.yy",},
+    {"name":"pipe_bottom","order":8,"path":"sprites/pipe_bottom/pipe_bottom.yy",},
+    {"name":"restart_button","order":8,"path":"objects/restart_button/restart_button.yy",},
     {"name":"out_of_bounds","order":6,"path":"sprites/out_of_bounds/out_of_bounds.yy",},
-    {"name":"pipe_bottom","order":1,"path":"sprites/pipe_bottom/pipe_bottom.yy",},
     {"name":"Player","order":1,"path":"objects/Player/Player.yy",},
     {"name":"GUI","order":7,"path":"objects/GUI/GUI.yy",},
     {"name":"bird_up","order":2,"path":"sprites/bird_up/bird_up.yy",},

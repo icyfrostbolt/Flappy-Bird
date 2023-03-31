@@ -1,4 +1,3 @@
 // when hitting pipe
 
-room_restart();
-
+global.pause = true;

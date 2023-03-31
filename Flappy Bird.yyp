@@ -34,8 +34,10 @@
   "resources": [
     {"id":{"name":"Spawner","path":"objects/Spawner/Spawner.yy",},"order":0,},
     {"id":{"name":"Pipe","path":"objects/Pipe/Pipe.yy",},"order":0,},
-    {"id":{"name":"out_of_bounds","path":"sprites/out_of_bounds/out_of_bounds.yy",},"order":0,},
+    {"id":{"name":"Restart","path":"sprites/Restart/Restart.yy",},"order":0,},
     {"id":{"name":"pipe_bottom","path":"sprites/pipe_bottom/pipe_bottom.yy",},"order":0,},
+    {"id":{"name":"restart_button","path":"objects/restart_button/restart_button.yy",},"order":0,},
+    {"id":{"name":"out_of_bounds","path":"sprites/out_of_bounds/out_of_bounds.yy",},"order":0,},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},"order":0,},
     {"id":{"name":"GUI","path":"objects/GUI/GUI.yy",},"order":0,},
     {"id":{"name":"bird_up","path":"sprites/bird_up/bird_up.yy",},"order":0,},

@@ -1,3 +1,11 @@
+if (global.pause){
+	speed = 0;
+	var bg_layer = layer_get_id("Background");
+	layer_hspeed(bg_layer, 0);
+	layer_vspeed(bg_layer, 0);
+	return;
+}
+
 // action
 
 if (mouse_check_button_released(mb_left)){
